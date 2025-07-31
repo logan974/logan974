@@ -5,7 +5,7 @@
 My name is Logan and I'm a ESIROI first year post graduate engineering student (part of university of reunion island). 
 
 For more about me please visit : 
-🔗 [lintr.ee/logan.grondin](linktree)
+🔗 [Linktree](https://linktr.ee/logan.grondin)
 
 Contact : logan.grondin.pro[at]proton.me
 
