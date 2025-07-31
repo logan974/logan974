@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi !
+
+*Not a lot to see on my Github account, most of my work is in private.*
+
+My name is Logan and I'm a ESIROI first year post graduate engineering student (part of university of reunion island). 
+
+For more about me please visit : 
+🔗 [lintr.ee/logan.grondin](linktree)
+
+Contact : logan.grondin.pro[at]proton.me
 
 <!--
 **logan974/logan974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
