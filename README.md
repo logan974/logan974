@@ -1,6 +1,6 @@
 ## Hi !
 
-*Not a lot to see on my Github account, most of my work is in private.*
+*There's not much to see on my Github account, most of my work is private.*
 
 My name is Logan and I'm a ESIROI first year post graduate engineering student (part of university of reunion island). 
 
